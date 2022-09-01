@@ -1,6 +1,6 @@
 {
     "name": "@crystallize/cli-next",
-    "version": "4.2.0",
+    "version": "1.0.0",
     "description": "Crystallize CLI",
     "main": "./build/index.js",
     "repository": "https://github.com/CrystallizeAPI/crystallize-cli-next",
